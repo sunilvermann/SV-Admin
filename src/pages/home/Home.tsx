@@ -20,9 +20,7 @@ const Home = () => {
       <div className="box box3">
         <ChartBox {...chartBoxProduct} />
       </div>
-      <div className="box box4">
-        <ChartBox />
-      </div>
+      <div className="box box4">Box4</div>
       <div className="box box5">
         <ChartBox {...chartBoxConversion} />
       </div>
